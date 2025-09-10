@@ -1,4 +1,4 @@
-# Assignment 1 — Docker Containers (ITCS 6190/8190)
+# Docker Containers (ITCS 6190/8190)
 
 This project runs a **two-container stack** with:
 - **PostgreSQL** database seeded with trip data.
