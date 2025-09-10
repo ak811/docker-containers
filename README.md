@@ -151,12 +151,3 @@ New-Item -ItemType Directory -Path .\out | Out-Null
 ```
 
 ---
-
-## 📤 Submission Notes
-- Push this repo (with `db/`, `app/`, `compose.yml`, `Makefile`, and `README.md`) to GitHub.
-- Submit the repo URL on Canvas.
-- Export a **1-page PDF** including:
-  - Commands used to run the stack
-  - Stdout summary
-  - `out/summary.json` contents
-  - 3–5 sentence reflection
